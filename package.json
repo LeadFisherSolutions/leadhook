@@ -1,7 +1,7 @@
 {
-  "name": "leadfisher-workspace",
-  "description": "Leadfisher workspace example",
-  "version": "1.2.0",
+  "name": "leadhook",
+  "description": "[Svelte js] Leadfisher widget for websites",
+  "version": "1.0.0",
   "homepage": "https://leadfisher.ru",
   "author": "Alexander Ivanov <sashapop101@gmail.com>",
   "license": "MIT",
@@ -15,14 +15,11 @@
     "prettier",
     "eslint",
     "ts",
-    "workspace",
-    "example",
-    "preset",
-    "starter-kit",
+    "svelte",
+    "widget",
     "leadfisher",
     "javascript",
-    "typescript",
-    "zero-dependencies"
+    "typescript"
   ],
   "browser": {},
   "files": [
